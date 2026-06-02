@@ -13,6 +13,36 @@
   "lang": "tr",
   "dir": "ltr",
   "categories": ["games", "entertainment"],
+  "screenshots": [
+    {
+      "src": "screenshot1.png",
+      "sizes": "1080x2400",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Oyuncuları ekle ve içki sertliğini seç"
+    },
+    {
+      "src": "screenshot2.png",
+      "sizes": "1080x2400",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Zar at, tahtada gez"
+    },
+    {
+      "src": "screenshot3.png",
+      "sizes": "1080x2400",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Arazileri sahiplen ya da pas geç"
+    },
+    {
+      "src": "screenshot4.png",
+      "sizes": "1080x2400",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Olay kartlarıyla herkes içer"
+    }
+  ],
   "shortcuts": [
     {
       "name": "Yeni Oyun",
