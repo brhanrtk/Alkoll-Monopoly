@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.brhanrtk.twa",
+        "sha256_cert_fingerprints": ["C4:93:BB:8D:CF:65:97:88:7E:72:89:21:D2:A3:04:33:33:D9:B6:7E:7B:2A:37:A0:BC:B1:C5:E1:64:21:00:AE"]
+      }
+    }]
