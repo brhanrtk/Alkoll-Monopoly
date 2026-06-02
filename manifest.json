@@ -1,15 +1,26 @@
 {
+  "id": "/Alkoll-Monopoly/",
   "name": "Alkollü Monopoly",
   "short_name": "Alkollü Monopoly",
   "description": "Tek cihazda oynanan, içkili parti oyunu. 3 zonu kapat, kazan!",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
+  "display_override": ["standalone", "fullscreen"],
   "orientation": "portrait",
   "background_color": "#15110c",
   "theme_color": "#15110c",
   "lang": "tr",
+  "dir": "ltr",
   "categories": ["games", "entertainment"],
+  "shortcuts": [
+    {
+      "name": "Yeni Oyun",
+      "short_name": "Yeni Oyun",
+      "url": "./index.html",
+      "icons": [{ "src": "icon-192.png", "sizes": "192x192" }]
+    }
+  ],
   "icons": [
     {
       "src": "icon-192.png",
